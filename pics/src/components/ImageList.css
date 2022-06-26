@@ -1,0 +1,14 @@
+.image-list {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0 10px; */
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.image-list img{
+    width: 250px;
+    height: fit-content;
+    border-style: groove;
+}
