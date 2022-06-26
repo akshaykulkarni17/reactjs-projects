@@ -22,5 +22,5 @@ Search and play Youtube videos
 Dashboard to play with comonents such as Accordian, Dropdown, Wikipedia Search bar, Translations using Google Translate API
 
 ### 7. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/videos-hooks)
-Search and play Youtube videos, with reactor hooks
-https://reactjs-projects-nu.vercel.app
+Search and play Youtube videos, with reactor hooks.
+App hosted at https://reactjs-projects-nu.vercel.app
