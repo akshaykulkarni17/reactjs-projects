@@ -3,21 +3,21 @@ This repo consists of ReactJS projects implemented as a learning.
 
 ## Projects
 
-### myapp
+### 1. [my-app](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/my-app)
 Hello world React app
 
-### components
+### 2. [components](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/components)
 First React component
 
-### seasons
+### 3. [seasons](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/seasons)
 Render screeens based on browser location and season of the year
 
-### pics
+### 4. [pics](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/pics)
 Search pictures and display in grid
 
-### videos
+### 5. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/videos)
 Search and play Youtube videos
 
-### widgets
+### 6. [widgets](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/widgets)
 Dashboard to play with comonents such as Accordian, Dropdown, Wikipedia Search bar, Translations using Google Translate API
 
