@@ -21,9 +21,9 @@ Search and play Youtube videos
 ### 6. [widgets](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/widgets)
 Dashboard to play with comonents such as Accordian, Dropdown, Wikipedia Search bar, Translations using Google Translate API
 
-### 7. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/videos-hooks)
+### 7. [videos-hooks](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/videos-hooks)
 Search and play Youtube videos, with reactor hooks.
 App hosted at https://reactjs-projects-nu.vercel.app
 
-### 8. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/songs)
+### 8. [songs](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/songs)
 Select songs to see details using React-Redux
