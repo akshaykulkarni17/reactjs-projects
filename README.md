@@ -24,3 +24,6 @@ Dashboard to play with comonents such as Accordian, Dropdown, Wikipedia Search b
 ### 7. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/videos-hooks)
 Search and play Youtube videos, with reactor hooks.
 App hosted at https://reactjs-projects-nu.vercel.app
+
+### 8. [videos](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/songs)
+Select songs to see details using React-Redux
