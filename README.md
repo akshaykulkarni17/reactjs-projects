@@ -27,3 +27,6 @@ App hosted at https://reactjs-projects-nu.vercel.app
 
 ### 8. [songs](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/songs)
 Select songs to see details using React-Redux
+
+### 9. [songs](https://github.com/akshaykulkarni17/reactjs-projects/tree/main/blogposts)
+See Blogposts and Authors using React-Redux-Thunk
